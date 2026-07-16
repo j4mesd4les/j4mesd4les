@@ -1,4 +1,4 @@
-# -j4mesd4les
+# j4mesd4les
 ### About Me
 
 I'm J4mes D4les a BSIT student now can confidently say i now know how to use GIT and GITHUB without using or guided by an AI model after grinding for 7 straight days of learning Git alone 
