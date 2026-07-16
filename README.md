@@ -22,7 +22,7 @@ I'm J4mes D4les a BSIT student now can confidently say i now know how to use GIT
       - All i do now is PR'ing myself and reviewing myself and Approving myself
       - I learned about like: .gitignore & declaring a couple of rules to my own repository
 ---------------------------------------------------------------------------------------------------------------------  
-###Thats basically it from Summer of 2026 Late May - Middle July update 
+### Thats basically it from Summer of 2026 Late May - Middle July update 
 #### My next plan for the next 3-6 months while school is happening i will be learning the following:
   - Learn Deeper about OOP using python 
   - Maybe Make a game out of python idk really haha
