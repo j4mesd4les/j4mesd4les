@@ -1,12 +1,12 @@
 # j4mesd4les
 ### About Me
 
-I'm J4mes D4les a BSIT student now can confidently say i now know how to use GIT and GITHUB without using or guided by an AI model after grinding for 7 straight days of learning Git alone 
+### I'm J4mes D4les a BSIT student now can confidently say i now know how to use GIT and GITHUB without using or guided by an AI model after grinding for 7 straight days of learning Git alone 
 - But now i could ship my own artisanal human handmade trash code without an LLM telling me what to do.
 - My projects code are trash but atleast it my trash not an AI-trash.
 
 -----------------------------------------------------------------------------------------------------------------------
-- Today (7/17/2026) as of writing this I've finished 3 courses from a mysterious website after grinded the whole summer from April - July i learned the following:
+#### Today (7/17/2026) as of writing this I've finished 3 courses from a mysterious website after grinded the whole summer from April - July i learned the following:
    - Python Fundamentals:
       - Data types, functions, loops, dicts, list comprehensions, custom-key sorting, sys.argv, and scope
    - CLI 
@@ -21,8 +21,8 @@ I'm J4mes D4les a BSIT student now can confidently say i now know how to use GIT
       - Now i could finally ship and show the world my pile of trash
       - All i do now is PR'ing myself and reviewing myself and Approving myself
       - I learned about like: .gitignore & declaring a couple of rules to my own repository
----------------------------------------------------------------------------------------------------------------------  
-### Thats basically it from Summer of 2026 Late May - Middle July update 
+   
+#### Thats basically it from Summer of 2026 Late May - Middle July update 
 #### My next plan for the next 3-6 months while school is happening i will be learning the following:
   - Learn Deeper about OOP using python 
   - Maybe Make a game out of python idk really haha
