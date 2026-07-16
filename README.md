@@ -13,11 +13,11 @@ I'm J4mes D4les a BSIT student now can confidently say i now know how to use GIT
       - From "CLI is for hackers to i only need terminal"
       - Built/Customize my environment: zsh, Neovim (Kickstart.nvim), plus lsd, bat, fzf, and zoxide for daily driving
       - Even made a couple of CLI based projects i just posted it the same day im writing this.
-   - GIT 
+   - Git 
       - Finally understand that Git & Github are not the same and mostly memorize a good amount of Porcelain commands
       - Added it to my workflow (I prefer rebase btw)
       - Learned how the following works: branching, head, hash-commits, merge, rebase, reset, remote and setting up useless unusable config variables. 
-   - GITHUB now
+   - Github
       - Now i could finally ship and show the world my pile of trash
       - All i do now is PR'ing myself and reviewing myself and Approving myself
       - I learned about like: .gitignore & declaring a couple of rules to my own repository
