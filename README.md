@@ -1,7 +1,7 @@
 # j4mesd4les
 ### About Me
 #### I'm J4mes D4les a BSIT student, an asipiring Backend and game developer.
-##### Currently taking an online course while in college the course im taking is lazer focus on Backend Development and I also do game jams at my spare time using game engine participating at itch.io
+##### Currently taking an online course while in college the course im taking is lazer focus on Backend Development and I also do game jams at my spare time using godot game engine participating at itch.io
 
 -----------------------------------------------------------------------------------------------------------------------
 I can confidently say i now know how to use GIT and GITHUB without using or guided by an AI model after grinding for 7 straight days of learning Git alone 
