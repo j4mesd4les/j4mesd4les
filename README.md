@@ -1,6 +1,6 @@
 # j4mesd4les
 ### About Me
-#### I'm J4mes D4les a BSIT student & asipiring Backend and game developer.
+#### I'm J4mes D4les a BSIT student, an asipiring Backend and game developer.
 ##### Currently taking an online course while in college the course im taking is lazer focus on Backend Development and I also do game jams at my spare time using game engine participating at itch.io
 
 -----------------------------------------------------------------------------------------------------------------------
